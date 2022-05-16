@@ -1,5 +1,5 @@
 import pyautogui as pg, time, random, webbrowser as wb
-wb.open('kahoot.it')
+wb.open('https://kahoot.it/')
 time.sleep(10)
 nums = "1234567890"
 for i in range(50):
